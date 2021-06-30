@@ -32,3 +32,11 @@ Python programme Environment setup:
 
 
 [Day1](https://transcripts.gotomeeting.com/#/s/45cdaa48de7fd8a0134f70b77b1161c32712e38d4e0467691018fa82f0c0c6b5)
+[Day2](https://transcripts.gotomeeting.com/#/s/55065cb70ceba755991b9c3f2be42e4f703a049386f0a0d368cbac562a8ed3b0)
+[Day3](https://transcripts.gotomeeting.com/#/s/d8e18111c30a65430214d49dd0c889dffbceaa080d4f5aac823ad0e5a6f6ef32)
+[Day4](https://transcripts.gotomeeting.com/#/s/49d73ab60fdda1b1f9ef307d7c407349ddee35b5b28edefe0535a71c0e8d5e7c)
+[Day5](https://transcripts.gotomeeting.com/#/s/5395ee28b90d8bd057cbf4692f457dc7f1d0d6da6862ce285502efe275bcc0da)
+[Day6](https://transcripts.gotomeeting.com/#/s/1573f626f3b4b0a25f5ee87d374004162107d8aa78b73b069ee38224d43e5d79)
+[Day7](https://transcripts.gotomeeting.com/#/s/1573f626f3b4b0a25f5ee87d374004162107d8aa78b73b069ee38224d43e5d79)
+[Day8.1](https://transcripts.gotomeeting.com/#/s/1573f626f3b4b0a25f5ee87d374004162107d8aa78b73b069ee38224d43e5d79)
+[Day8.2](https://transcripts.gotomeeting.com/#/s/9ceec8e2849cf047a0f3394747363a6ebc8fa9f344d2478eb63cfe49b2f4ffcd)

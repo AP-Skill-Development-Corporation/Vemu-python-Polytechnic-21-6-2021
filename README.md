@@ -31,3 +31,4 @@ Python programme Environment setup:
 
 
 
+[Day1](https://transcripts.gotomeeting.com/#/s/45cdaa48de7fd8a0134f70b77b1161c32712e38d4e0467691018fa82f0c0c6b5)

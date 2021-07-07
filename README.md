@@ -45,3 +45,4 @@ Python programme Environment setup:
 + [Day11](https://transcripts.gotomeeting.com/#/s/233e76c1da3515b3b643c6ee98c70b06a373075a66eca5efc4805b5135ce0739)
 + [Day12](https://transcripts.gotomeeting.com/#/s/c60f239d6605286a24e26658093540db4a9988020a941efe0b5f05de4b91dacc)
 + [Day13](https://transcripts.gotomeeting.com/#/s/72d7733ad603bb25d80ec5e1370ffc18a95f0f1859110078660394f4ef215d8a)
++ [Day14](https://transcripts.gotomeeting.com/#/s/fe8e444a1ddb64e78f1a1e74e225fde050a90646299f1e4c82596b0e194c96f9)
